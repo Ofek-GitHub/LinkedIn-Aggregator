@@ -1,0 +1,294 @@
+Title: Firmware Student, URN: urn:li:fsd_jobPosting:3933374364
+Title: Chip Design Engineer, URN: urn:li:fsd_jobPosting:3920813628
+Title: Chip Design Engineer, URN: urn:li:fsd_jobPosting:3871817960
+Title: IC Practical Engineer, URN: urn:li:fsd_jobPosting:3870191291
+Title: Chip Design Student, URN: urn:li:fsd_jobPosting:3921744463
+Title: Physical Design Backend Engineer, URN: urn:li:fsd_jobPosting:3825427072
+Title: Formal Verification Student, URN: urn:li:fsd_jobPosting:3926446079
+Title: Signal and Power Integrity Student, URN: urn:li:fsd_jobPosting:3817505816
+Title: SONiC Software Verification Student, URN: urn:li:fsd_jobPosting:3902206786
+Title: Software Engineer, Ethernet Switch, URN: urn:li:fsd_jobPosting:3889114940
+Title: Formal Verification Student, URN: urn:li:fsd_jobPosting:3926439998
+Title: Physical Design Backend Engineer, URN: urn:li:fsd_jobPosting:3843574421
+Title: Physical Design Student, URN: urn:li:fsd_jobPosting:3802574983
+Title: Pre-SI Chip Design Verification Student, URN: urn:li:fsd_jobPosting:3932246390
+Title: Chip Design Student, URN: urn:li:fsd_jobPosting:3922554551
+Title: Host Management Architecture Student, URN: urn:li:fsd_jobPosting:3932243819
+Title: Firmware Engineer, URN: urn:li:fsd_jobPosting:3916631356
+Title: Senior Full Stack Developer, URN: urn:li:fsd_jobPosting:3867425753
+Title: Chip Design Student, URN: urn:li:fsd_jobPosting:3921747199
+Title: SOC Architecture Student, URN: urn:li:fsd_jobPosting:3933374365
+Title: Physical Design Backend Engineer, URN: urn:li:fsd_jobPosting:3830761050
+Title: CPU Verification Student, URN: urn:li:fsd_jobPosting:3837218314
+Title: Chip Design Verification Student, URN: urn:li:fsd_jobPosting:3806589525
+Title: Formal Verification Student, URN: urn:li:fsd_jobPosting:3864902243
+Title: Software Verification Engineer, URN: urn:li:fsd_jobPosting:3888700764
+Title: Senior Data Engineer, URN: urn:li:fsd_jobPosting:3864796950
+Title: Senior K8s Automation SW Engineer, URN: urn:li:fsd_jobPosting:3761511804
+Title: Senior Software Engineer, DOCA Verification, URN: urn:li:fsd_jobPosting:3902209287
+Title: Senior Software Research Architect, URN: urn:li:fsd_jobPosting:3927537015
+Title: Senior Software Solution Engineer, Linux Kernel, URN: urn:li:fsd_jobPosting:3841804206
+Title: Senior Production Infrastructure Equipment Engineer, URN: urn:li:fsd_jobPosting:3838085402
+Title: Senior Software Infrastructure Development and Architecture Engineer, URN: urn:li:fsd_jobPosting:3873042184
+Title: Chip Design Student, URN: urn:li:fsd_jobPosting:3924394486
+Title: Network Modeling Architect, URN: urn:li:fsd_jobPosting:3830759398
+Title: Senior Software Engineer, URN: urn:li:fsd_jobPosting:3686057036
+Title: Senior Software Qualification Engineer, URN: urn:li:fsd_jobPosting:3729457928
+Title: Senior Software Engineer, Cloud Platforms, URN: urn:li:fsd_jobPosting:3837219273
+Title: Physical Design Backend Engineer, URN: urn:li:fsd_jobPosting:3641358979
+Title: CPU Core Performance Architect, URN: urn:li:fsd_jobPosting:3785219332
+Title: Senior System Software Architect - AI Cloud Infrastructure, URN: urn:li:fsd_jobPosting:3933375057
+Title: Senior Technical Trainer, Data Center and AI Platforms, URN: urn:li:fsd_jobPosting:3931332409
+Title: Senior Software Engineer - System Customization Team, URN: urn:li:fsd_jobPosting:3921743515
+Title: Senior Software Architect, AI Networking, URN: urn:li:fsd_jobPosting:3904461387
+Title: Senior Deep Learning Performance Software Engineer, URN: urn:li:fsd_jobPosting:3806209532
+Title: Senior Software K8S Engineer, URN: urn:li:fsd_jobPosting:3888705207
+Title: Senior Software Infrastructure Engineer, URN: urn:li:fsd_jobPosting:3830761042
+Title: Chip Architect Engineer, URN: urn:li:fsd_jobPosting:3631883488
+Title: Senior Software and Cloud Architect, URN: urn:li:fsd_jobPosting:3905396469
+Title: Networking Architect, URN: urn:li:fsd_jobPosting:3724729658
+Title: Senior Software Design Engineer - SONiC Group, URN: urn:li:fsd_jobPosting:3926439999
+Title: Software Research Architect, URN: urn:li:fsd_jobPosting:3921745313
+Title: Senior Performance Research and Analysis Engineer, URN: urn:li:fsd_jobPosting:3928706112
+Title: DFT Verification Engineer, URN: urn:li:fsd_jobPosting:3920813632
+Title: Physical Design Signoff CAD Engineer, URN: urn:li:fsd_jobPosting:3779947928
+Title: JTAG Test Engineer, URN: urn:li:fsd_jobPosting:3873040594
+Title: Director, Software, URN: urn:li:fsd_jobPosting:3924397302
+Title: Senior Physical Design Backend Engineer, URN: urn:li:fsd_jobPosting:3825426576
+Title: Senior Formal Verification Engineer, URN: urn:li:fsd_jobPosting:3829808070
+Title: Networking Architecture Backend Manager, URN: urn:li:fsd_jobPosting:3931333379
+Title: Senior Architect, Large Scale Distributed Training, URN: urn:li:fsd_jobPosting:3666076583
+Title: PhD Research Intern, URN: urn:li:fsd_jobPosting:3785218468
+Title: AI Network System Architect, URN: urn:li:fsd_jobPosting:3834986942
+Title: Senior Physical Design Backend Engineer, URN: urn:li:fsd_jobPosting:3931328733
+Title: Senior Software Architect, Management Systems, URN: urn:li:fsd_jobPosting:3666072863
+Title: Software Manager, DOCA Verification, URN: urn:li:fsd_jobPosting:3741713245
+Title: ASIC Design Engineer, URN: urn:li:fsd_jobPosting:3926445289
+Title: Senior SW Engineer - DOCA, URN: urn:li:fsd_jobPosting:3819194948
+Title: Senior Linux Kernel Software Engineer, URN: urn:li:fsd_jobPosting:3922559049
+Title: Senior Software Modeling Engineer, URN: urn:li:fsd_jobPosting:3888701446
+Title: Senior Software and System Architect, URN: urn:li:fsd_jobPosting:3918098818
+Title: Program Manager, Sourcing - Operations, URN: urn:li:fsd_jobPosting:3931335209
+Title: Senior Physical Design Backend Engineer, URN: urn:li:fsd_jobPosting:3825424746
+Title: Senior Engineer, Professional Services, URN: urn:li:fsd_jobPosting:3903535218
+Title: Chip Design Engineer, URN: urn:li:fsd_jobPosting:3831974998
+Title: Senior Human Resource Business Partner, URN: urn:li:fsd_jobPosting:3922556509
+Title: Chip Design Verification Engineer, URN: urn:li:fsd_jobPosting:3850206342
+Title: Senior Chip Design RTL Design Engineer, URN: urn:li:fsd_jobPosting:3847978044
+Title: Senior Infrastructure Purchasing Buyer, URN: urn:li:fsd_jobPosting:3931329681
+Title: Tax Specialist, URN: urn:li:fsd_jobPosting:3928700952
+Title: Software Verification Manager, URN: urn:li:fsd_jobPosting:3766469804
+Title: Senior Network Security Engineers, URN: urn:li:fsd_jobPosting:3805733418
+Title: Senior Manager, Software Integration, URN: urn:li:fsd_jobPosting:3813431134
+Title: Senior Firmware Engineer, URN: urn:li:fsd_jobPosting:3796413161
+Title: Senior Software Engineer, URN: urn:li:fsd_jobPosting:3902205830
+Title: Senior Physical Design Backend Engineer, URN: urn:li:fsd_jobPosting:3825427061
+Title: Power Architect, URN: urn:li:fsd_jobPosting:3650255582
+Title: ICT and JTAG Test Engineer, URN: urn:li:fsd_jobPosting:3830757383
+Title: Chip Design Architect, URN: urn:li:fsd_jobPosting:3847975558
+Title: Senior Physical Design Backend Engineer, URN: urn:li:fsd_jobPosting:3795298241
+Title: Senior HPC Cluster Engineer, URN: urn:li:fsd_jobPosting:3725775195
+Title: Software Design Manager, URN: urn:li:fsd_jobPosting:3670852591
+Title: Senior Software Verification Engineer, URN: urn:li:fsd_jobPosting:3697568153
+Title: Senior High-Performance System Architect, URN: urn:li:fsd_jobPosting:3839135386
+Title: Senior Corporate Counsel, URN: urn:li:fsd_jobPosting:3915697965
+Title: Package Layout Engineer, URN: urn:li:fsd_jobPosting:3840856095
+Title: Senior VLSI Integration Engineer, URN: urn:li:fsd_jobPosting:3831975697
+Title: Senior Customer Project Manager, URN: urn:li:fsd_jobPosting:3814323899
+Title: Senior Product Manager – BlueField and ConnectX Platforms, URN: urn:li:fsd_jobPosting:3829804813
+Title: Senior Machine Learning Engineer, URN: urn:li:fsd_jobPosting:3819196552
+Title: Senior AI Solutions Architect - Engineering, URN: urn:li:fsd_jobPosting:3828682350
+Title: Senior Networking Engineer, Next Generation InfiniBand, URN: urn:li:fsd_jobPosting:3817503874
+Title: AI and HPC Cluster Group Manager, URN: urn:li:fsd_jobPosting:3886328907
+Title: Electro Optics Product Engineer, URN: urn:li:fsd_jobPosting:3838079937
+Title: Senior Test Product Engineer, URN: urn:li:fsd_jobPosting:3819198285
+Title: ASIC Architect Manager, URN: urn:li:fsd_jobPosting:3888702307
+Title: Senior Cyber Security Engineer, URN: urn:li:fsd_jobPosting:3761511610
+Title: Senior ASIC Hardware Design Engineer, URN: urn:li:fsd_jobPosting:3892025380
+Title: Silicon Photonic RF Component Modeling Engineer, URN: urn:li:fsd_jobPosting:3823424521
+Title: Senior Verification and Validation System Product Engineer, URN: urn:li:fsd_jobPosting:3873040595
+Title: Senior NIC System Architect, URN: urn:li:fsd_jobPosting:3737080390
+Title: Senior System Product Engineer, URN: urn:li:fsd_jobPosting:3870188538
+Title: Senior Formal Verification Engineer, CPU, URN: urn:li:fsd_jobPosting:3813429857
+Title: Senior Video Compression Architect, URN: urn:li:fsd_jobPosting:3801788106
+Title: Senior IC Product Engineer, URN: urn:li:fsd_jobPosting:3825424747
+Title: Senior IO and SoC Boot Architect, URN: urn:li:fsd_jobPosting:3793932875
+Title: Senior NPI Engineer, Chip, URN: urn:li:fsd_jobPosting:3931330647
+Title: Senior Device Management Architect, URN: urn:li:fsd_jobPosting:3920816416
+Title: Senior PCB NPI Engineer, URN: urn:li:fsd_jobPosting:3931330646
+Title: Senior Materials Program Manager, URN: urn:li:fsd_jobPosting:3931334247
+Title: Senior Cyber Security Engineer, URN: urn:li:fsd_jobPosting:3782628998
+Title: Senior Chip Design Verification Engineer, URN: urn:li:fsd_jobPosting:3850207308
+Title: Full Chip STA Engineer, URN: urn:li:fsd_jobPosting:3710379048
+Title: Senior Manager, DevOps, URN: urn:li:fsd_jobPosting:3817504863
+Title: IC Test Engineer, URN: urn:li:fsd_jobPosting:3855087727
+Title: Physical Layer Hardware Architecture Engineer, URN: urn:li:fsd_jobPosting:3636918690
+Title: Senior Network Engineer, URN: urn:li:fsd_jobPosting:3838081835
+Title: Senior DFT Verification Engineer, URN: urn:li:fsd_jobPosting:3805728892
+Title: Manager, Optics Firmware Verification, URN: urn:li:fsd_jobPosting:3922557331
+Title: Senior Chip Architect, URN: urn:li:fsd_jobPosting:3682299658
+Title: Senior Architect, URN: urn:li:fsd_jobPosting:3888701453
+Title: Senior Verification and Validation System Product Engineer, URN: urn:li:fsd_jobPosting:3829802872
+Title: Senior Chip Design and Verification Engineer, URN: urn:li:fsd_jobPosting:3847978045
+Title: Senior Security Architect, Confidential Computing, URN: urn:li:fsd_jobPosting:3634664906
+Title: Manager, DFT Verification, URN: urn:li:fsd_jobPosting:3932246397
+Title: Senior Test Engineer, URN: urn:li:fsd_jobPosting:3802577379
+Title: Senior CPU Architect, URN: urn:li:fsd_jobPosting:3814324863
+Title: Senior ASIC Engineer, Silicon Photonics Testing Platform, URN: urn:li:fsd_jobPosting:3867426763
+Title: Senior Chip Design Engineer, URN: urn:li:fsd_jobPosting:3864798655
+Title: Senior Physical Layer Performance Engineer, URN: urn:li:fsd_jobPosting:3780867895
+Title: Senior Formal Verification Engineer, URN: urn:li:fsd_jobPosting:3831975698
+Title: Senior Program Sourcing Manager, Operations, URN: urn:li:fsd_jobPosting:3766469794
+Title: Senior Manager, Enterprise Networking, URN: urn:li:fsd_jobPosting:3920812745
+Title: Senior Mechanical Engineer, Manufacturing Development, URN: urn:li:fsd_jobPosting:3871818712
+Title: Senior Interconnect Product Engineer, URN: urn:li:fsd_jobPosting:3932245410
+Title: Senior Firmware System Engineer, URN: urn:li:fsd_jobPosting:3837216599
+Title: Senior Materials Program Manager, URN: urn:li:fsd_jobPosting:3931331477
+Title: Senior IC Packaging Engineer, URN: urn:li:fsd_jobPosting:3870190403
+Title: Physical Design CAD Engineer, URN: urn:li:fsd_jobPosting:3669677938
+Title: Senior Chip Design Engineer, URN: urn:li:fsd_jobPosting:3817512172
+Title: Senior Chip Architect, URN: urn:li:fsd_jobPosting:3850203592
+Title: Senior Hardware Quality Engineer, URN: urn:li:fsd_jobPosting:3825422914
+Title: Senior Package Layout Engineer, URN: urn:li:fsd_jobPosting:3842697973
+Title: Senior System Product Engineer, URN: urn:li:fsd_jobPosting:3830754971
+Title: Senior Physical Design CAD Engineer, URN: urn:li:fsd_jobPosting:3886331304
+Title: Senior Production Manager, Interconnect, URN: urn:li:fsd_jobPosting:3771323896
+Title: Senior Architect, Product Security Certifications, URN: urn:li:fsd_jobPosting:3834986938
+Title: Senior Global Capacity Planner, URN: urn:li:fsd_jobPosting:3766471332
+Title: Senior System Validation Manager, URN: urn:li:fsd_jobPosting:3779021333
+Title: Senior System Design Test Architect, URN: urn:li:fsd_jobPosting:3873044129
+Title: Networking RMA Production Manager, URN: urn:li:fsd_jobPosting:3696268889
+Title: Senior Hardware Engineer, URN: urn:li:fsd_jobPosting:3837218294
+Title: Senior Electronics Failure Analysis Hardware Engineer, URN: urn:li:fsd_jobPosting:3829803761
+Title: Senior Thermal Engineer, URN: urn:li:fsd_jobPosting:3882718874
+Title: Senior Board Design Engineer, URN: urn:li:fsd_jobPosting:3794710124
+Title: Senior Thermal Engineer, URN: urn:li:fsd_jobPosting:3837214765
+Title: Senior Board Design Engineer, URN: urn:li:fsd_jobPosting:3853851713
+Title: Senior Power Design Engineer, URN: urn:li:fsd_jobPosting:3819104022
+Title: Senior Chip Design Verification, URN: urn:li:fsd_jobPosting:3817506713
+Title: Senior Networking Researcher, URN: urn:li:fsd_jobPosting:3657399827
+Title: Senior IC Test Engineer, URN: urn:li:fsd_jobPosting:3825425550
+Title: Senior Signal and Power Integrity Engineer, URN: urn:li:fsd_jobPosting:3798263194
+Title: Senior Analog Mixed Signal Design Engineer, URN: urn:li:fsd_jobPosting:3657602176
+Title: Senior Chip Design Engineer, URN: urn:li:fsd_jobPosting:3858606589
+Title: Senior Interconnect Hardware Test Engineer, URN: urn:li:fsd_jobPosting:3817510196
+Title: Senior Design-for-Test Engineer, ATPG, URN: urn:li:fsd_jobPosting:3641362375
+Title: Senior System Software Architect - AI Cloud Infrastructure, URN: urn:li:fsd_jobPosting:3933372432
+Title: SOC Architecture Student, URN: urn:li:fsd_jobPosting:3933368982
+Title: Senior Software K8S Engineer, URN: urn:li:fsd_jobPosting:3888706155
+Title: Chip Design Engineer, URN: urn:li:fsd_jobPosting:3920817333
+Title: Senior Post-Silicon Electro-Optical PHY Validation Engineer, URN: urn:li:fsd_jobPosting:3609525404
+Title: Senior Software K8S Engineer, URN: urn:li:fsd_jobPosting:3888704190
+Title: CPU Verification Student, URN: urn:li:fsd_jobPosting:3837217577
+Title: Physical Design Backend Engineer, URN: urn:li:fsd_jobPosting:3825421979
+Title: Physical Design Backend Engineer, URN: urn:li:fsd_jobPosting:3843572481
+Title: SOC Architecture Student, URN: urn:li:fsd_jobPosting:3933371636
+Title: Physical Design Backend Engineer, URN: urn:li:fsd_jobPosting:3843573486
+Title: Senior Board Design Engineer, Electro Optical, URN: urn:li:fsd_jobPosting:3657398809
+Title: Physical Design Backend Engineer, URN: urn:li:fsd_jobPosting:3830755782
+Title: Physical Design Backend Engineer, URN: urn:li:fsd_jobPosting:3641359898
+Title: Senior K8s Automation SW Engineer, URN: urn:li:fsd_jobPosting:3761514553
+Title: Senior Software K8S Engineer, URN: urn:li:fsd_jobPosting:3888703317
+Title: Senior Board Design Hardware Engineer, URN: urn:li:fsd_jobPosting:3700553035
+Title: Software Verification Engineer, URN: urn:li:fsd_jobPosting:3888701455
+Title: Senior K8s Automation SW Engineer, URN: urn:li:fsd_jobPosting:3761515504
+Title: Signal and Power Integrity Student, URN: urn:li:fsd_jobPosting:3817506726
+Title: Senior Technical Trainer, Data Center and AI Platforms, URN: urn:li:fsd_jobPosting:3931330655
+Title: Senior Software K8S Engineer, URN: urn:li:fsd_jobPosting:3888599936
+Title: CPU Core Performance Architect, URN: urn:li:fsd_jobPosting:3785217550
+Title: Networking Architect, URN: urn:li:fsd_jobPosting:3724730635
+Title: Senior Software and Cloud Architect, URN: urn:li:fsd_jobPosting:3905394592
+Title: Senior Software Engineer, Cloud Platforms, URN: urn:li:fsd_jobPosting:3837216594
+Title: Senior Software and Cloud Architect, URN: urn:li:fsd_jobPosting:3905398346
+Title: Senior Software and System Architect, URN: urn:li:fsd_jobPosting:3918099595
+Title: Networking Architecture Backend Manager, URN: urn:li:fsd_jobPosting:3931332491
+Title: Senior System Software Architect - AI Cloud Infrastructure, URN: urn:li:fsd_jobPosting:3933369953
+Title: Senior Software and System Architect, URN: urn:li:fsd_jobPosting:3918304275
+Title: Senior Software K8S Engineer, URN: urn:li:fsd_jobPosting:3888701526
+Title: Senior Software Solution Engineer, Linux Kernel, URN: urn:li:fsd_jobPosting:3841804205
+Title: Senior System Software Architect - AI Cloud Infrastructure, URN: urn:li:fsd_jobPosting:3933373407
+Title: ASIC Design Engineer, URN: urn:li:fsd_jobPosting:3926442661
+Title: Senior SW Engineer - DOCA, URN: urn:li:fsd_jobPosting:3819301031
+Title: Senior Engineer, Professional Services, URN: urn:li:fsd_jobPosting:3903534236
+Title: Network Modeling Architect, URN: urn:li:fsd_jobPosting:3830757387
+Title: Senior Software Research Architect, URN: urn:li:fsd_jobPosting:3927533470
+Title: Senior System Software Architect - AI Cloud Infrastructure, URN: urn:li:fsd_jobPosting:3933375056
+Title: Chip Design Engineer, URN: urn:li:fsd_jobPosting:3831976615
+Title: Senior Software Solution Engineer, Linux Kernel, URN: urn:li:fsd_jobPosting:3841803314
+Title: Software Research Architect, URN: urn:li:fsd_jobPosting:3921746238
+Title: Senior Software Research Architect, URN: urn:li:fsd_jobPosting:3927534437
+Title: AI Network System Architect, URN: urn:li:fsd_jobPosting:3834991118
+Title: Senior Physical Design Backend Engineer, URN: urn:li:fsd_jobPosting:3931331481
+Title: AI Network System Architect, URN: urn:li:fsd_jobPosting:3834989290
+Title: Senior Engineer, Professional Services, URN: urn:li:fsd_jobPosting:3903530518
+Title: Senior Software Engineer, DOCA Verification, URN: urn:li:fsd_jobPosting:3902204970
+Title: Software Manager, DOCA Verification, URN: urn:li:fsd_jobPosting:3741715135
+Title: Senior Physical Design Backend Engineer, URN: urn:li:fsd_jobPosting:3825428027
+Title: DFT Verification Engineer, URN: urn:li:fsd_jobPosting:3920814489
+Title: Senior Physical Design Backend Engineer, URN: urn:li:fsd_jobPosting:3795291932
+Title: Senior High-Performance System Architect, URN: urn:li:fsd_jobPosting:3839135385
+Title: Senior Human Resource Business Partner, URN: urn:li:fsd_jobPosting:3922556510
+Title: Senior High-Performance System Architect, URN: urn:li:fsd_jobPosting:3839134571
+Title: Senior Product Manager – BlueField and ConnectX Platforms, URN: urn:li:fsd_jobPosting:3829801892
+Title: Senior Physical Design Backend Engineer, URN: urn:li:fsd_jobPosting:3825427065
+Title: Chip Design Architect, URN: urn:li:fsd_jobPosting:3847972890
+Title: Senior HPC Cluster Engineer, URN: urn:li:fsd_jobPosting:3725770878
+Title: Senior Software Engineer, URN: urn:li:fsd_jobPosting:3902205828
+Title: Senior Human Resource Business Partner, URN: urn:li:fsd_jobPosting:3922558189
+Title: Networking Architecture Backend Manager, URN: urn:li:fsd_jobPosting:3931328816
+Title: Senior Physical Design Backend Engineer, URN: urn:li:fsd_jobPosting:3825426559
+Title: Senior Customer Project Manager, URN: urn:li:fsd_jobPosting:3814327367
+Title: Senior SW Engineer - DOCA, URN: urn:li:fsd_jobPosting:3819301030
+Title: AI and HPC Cluster Group Manager, URN: urn:li:fsd_jobPosting:3886331302
+Title: Senior Network Security Engineers, URN: urn:li:fsd_jobPosting:3805733419
+Title: Senior Physical Design Backend Engineer, URN: urn:li:fsd_jobPosting:3795291933
+Title: Senior NIC System Architect, URN: urn:li:fsd_jobPosting:3737078579
+Title: Senior Physical Design Backend Engineer, URN: urn:li:fsd_jobPosting:3825426570
+Title: Tax Specialist, URN: urn:li:fsd_jobPosting:3928705757
+Title: Senior HPC Cluster Engineer, URN: urn:li:fsd_jobPosting:3725775194
+Title: Power Architect, URN: urn:li:fsd_jobPosting:3650256364
+Title: Senior HPC Cluster Engineer, URN: urn:li:fsd_jobPosting:3725777059
+Title: Tax Specialist, URN: urn:li:fsd_jobPosting:3928705756
+Title: Senior Chip Architect, URN: urn:li:fsd_jobPosting:3682296898
+Title: Senior Security Architect, Confidential Computing, URN: urn:li:fsd_jobPosting:3631889084
+Title: Senior Manager, Enterprise Networking, URN: urn:li:fsd_jobPosting:3920814484
+Title: Senior Chip Architect, URN: urn:li:fsd_jobPosting:3682301403
+Title: Senior Corporate Counsel, URN: urn:li:fsd_jobPosting:3915697964
+Title: Senior Architect, URN: urn:li:fsd_jobPosting:3888599867
+Title: Manager, Optics Firmware Verification, URN: urn:li:fsd_jobPosting:3922557332
+Title: Manager, DFT Verification, URN: urn:li:fsd_jobPosting:3932247403
+Title: Full Chip STA Engineer, URN: urn:li:fsd_jobPosting:3710375911
+Title: Senior IO and SoC Boot Architect, URN: urn:li:fsd_jobPosting:3793935693
+Title: Senior IO and SoC Boot Architect, URN: urn:li:fsd_jobPosting:3793937408
+Title: Physical Layer Hardware Architecture Engineer, URN: urn:li:fsd_jobPosting:3636918691
+Title: Senior Corporate Counsel, URN: urn:li:fsd_jobPosting:3915801459
+Title: Senior Cyber Security Engineer, URN: urn:li:fsd_jobPosting:3782635183
+Title: Senior CPU Architect, URN: urn:li:fsd_jobPosting:3814323898
+Title: Senior Video Compression Architect, URN: urn:li:fsd_jobPosting:3801784303
+Title: Senior Device Management Architect, URN: urn:li:fsd_jobPosting:3920813630
+Title: Senior Chip Design Engineer, URN: urn:li:fsd_jobPosting:3817514016
+Title: Senior DFT Verification Engineer, URN: urn:li:fsd_jobPosting:3805729802
+Title: Senior Formal Verification Engineer, CPU, URN: urn:li:fsd_jobPosting:3813428934
+Title: Senior Device Management Architect, URN: urn:li:fsd_jobPosting:3920813629
+Title: Senior ASIC Hardware Design Engineer, URN: urn:li:fsd_jobPosting:3892020948
+Title: Physical Design CAD Engineer, URN: urn:li:fsd_jobPosting:3669679286
+Title: Senior Device Management Architect, URN: urn:li:fsd_jobPosting:3920815404
+Title: Senior Board Design Engineer, URN: urn:li:fsd_jobPosting:3853856068
+Title: Senior Architect, Product Security Certifications, URN: urn:li:fsd_jobPosting:3834985995
+Title: Senior Security Architect, Confidential Computing, URN: urn:li:fsd_jobPosting:3631889083
+Title: Senior Chip Design Verification, URN: urn:li:fsd_jobPosting:3817503877
+Title: Senior Signal and Power Integrity Engineer, URN: urn:li:fsd_jobPosting:3798259723
+Title: Senior Design-for-Test Engineer, ATPG, URN: urn:li:fsd_jobPosting:3641362374
+Title: Senior Board Design Hardware Engineer, URN: urn:li:fsd_jobPosting:3700547824
+Title: Senior Power Design Engineer, URN: urn:li:fsd_jobPosting:3817514198
+Title: Senior Analog Mixed Signal Design Engineer, URN: urn:li:fsd_jobPosting:3657603135
+Title: Senior Security Architect, Confidential Computing, URN: urn:li:fsd_jobPosting:3631886347
+Title: Senior IO and SoC Boot Architect, URN: urn:li:fsd_jobPosting:3793932876
+Title: Senior Power Design Engineer, URN: urn:li:fsd_jobPosting:3817513294
+Title: Senior Power Design Engineer, URN: urn:li:fsd_jobPosting:3817507944
+Title: Senior Chip Architect, URN: urn:li:fsd_jobPosting:3850206343
+Title: Senior Thermal Engineer, URN: urn:li:fsd_jobPosting:3837219282
+Title: Senior Signal and Power Integrity Engineer, URN: urn:li:fsd_jobPosting:3798260778
+Title: Senior Signal and Power Integrity Engineer, URN: urn:li:fsd_jobPosting:3798265034
+Title: Senior Physical Design CAD Engineer, URN: urn:li:fsd_jobPosting:3886330493
+Title: Senior Power Design Engineer, URN: urn:li:fsd_jobPosting:3817511364
